@@ -10,7 +10,7 @@ Python 3.11 o superior.
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
-uvicorn app.main:app --host 127.0.0.1 --port 8010 --reload
+PUBLIC_ORIGINS=http://localhost:5173,http://127.0.0.1:5173 uvicorn app.main:app --host 127.0.0.1 --port 8010 --reload
 ~~~
 
 python -m pytest -q verifica el catálogo completo, validación de consultas, persistencia SQLite, acceso administrativo y protección de origen.
