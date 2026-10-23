@@ -1,0 +1,2818 @@
+{
+  "currency": "USD",
+  "source": "Owner-provided menu dossier, October 23, 2026",
+  "categories": [
+    {
+      "id": "breakfast-ec",
+      "name_es": "Desayunos ecuatorianos",
+      "name_en": "Ecuadorian breakfasts",
+      "items": [
+        {
+          "id": "1",
+          "number": 1,
+          "name_es": "Bolón mixto",
+          "name_en": "Plantain ball with cheese & pork crackling",
+          "prices": [
+            {
+              "size": "",
+              "amount": 12.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "name_es": "Bolón de queso",
+          "name_en": "Plantain ball with cheese",
+          "prices": [
+            {
+              "size": "",
+              "amount": 10.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "name_es": "Bolón de chicharrón",
+          "name_en": "Plantain ball with pork crackling",
+          "prices": [
+            {
+              "size": "",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "name_es": "Desayuno de la casa",
+          "name_en": "House breakfast",
+          "prices": [
+            {
+              "size": "",
+              "amount": 12.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "name_es": "Salchipapas",
+          "name_en": "French fries with sausage",
+          "prices": [
+            {
+              "size": "",
+              "amount": 10.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "name_es": "Carne asada",
+          "name_en": "Grilled beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "name_es": "Pollo frito",
+          "name_en": "Fried chicken breast",
+          "prices": [
+            {
+              "size": "",
+              "amount": 12.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "name_es": "Mote pillo con carne o pechuga asada",
+          "name_en": "Hominy with grilled beef or chicken breast",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "name_es": "Mote pillo",
+          "name_en": "Ecuadorian hominy",
+          "prices": [
+            {
+              "size": "",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "10",
+          "number": 10,
+          "name_es": "Carne asada con papas guisadas",
+          "name_en": "Grilled beef with stewed potatoes & eggs",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "11",
+          "number": 11,
+          "name_es": "Tortilla española",
+          "name_en": "Spanish potato omelet",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "12",
+          "number": 12,
+          "name_es": "Bistec de carne con bolón mixto",
+          "name_en": "Steak with cheese & pork plantain ball",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "13",
+          "number": 13,
+          "name_es": "Hígado con bolón mixto",
+          "name_en": "Liver with cheese & pork plantain ball",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "14",
+          "number": 14,
+          "name_es": "Tigrillo mixto especial",
+          "name_en": "Special mixed mashed plantain",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "breakfast-co",
+      "name_es": "Desayunos colombianos",
+      "name_en": "Colombian breakfasts",
+      "items": [
+        {
+          "id": "15",
+          "number": 15,
+          "name_es": "Huevos pericos con arroz",
+          "name_en": "Colombian scrambled eggs with rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 10.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "16",
+          "number": 16,
+          "name_es": "Huevos pericos con calentado o papas fritas",
+          "name_en": "Colombian scrambled eggs with rice & beans or fries",
+          "prices": [
+            {
+              "size": "",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "17",
+          "number": 17,
+          "name_es": "Huevos en cacerola y arepa con queso",
+          "name_en": "Casserole eggs & cheese arepa",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "18",
+          "number": 18,
+          "name_es": "Carne asada con calentado",
+          "name_en": "Grilled beef with rice & beans",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "19",
+          "number": 19,
+          "name_es": "Huevos revueltos con calentado",
+          "name_en": "Scrambled eggs with rice & beans",
+          "prices": [
+            {
+              "size": "",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "20",
+          "number": 20,
+          "name_es": "Carne asada, arepa y queso",
+          "name_en": "Grilled beef, corn cake & cheese",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "21",
+          "number": 21,
+          "name_es": "Calentado colombiano",
+          "name_en": "Colombian rice & bean platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "22",
+          "number": 22,
+          "name_es": "Calentado mixto",
+          "name_en": "Mixed Colombian breakfast platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "soups",
+      "name_es": "Sopas de todos los días",
+      "name_en": "Daily soups",
+      "items": [
+        {
+          "id": "23",
+          "number": 23,
+          "name_es": "Sopa de mariscos",
+          "name_en": "Mixed seafood soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 23.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "24",
+          "number": 24,
+          "name_es": "Caldo de bagre",
+          "name_en": "Catfish soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "25",
+          "number": 25,
+          "name_es": "Caldo de pata de res",
+          "name_en": "Beef foot soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "26",
+          "number": 26,
+          "name_es": "Caldo de gallina de vivero",
+          "name_en": "Hen soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "27",
+          "number": 27,
+          "name_es": "Caldo de bola de verde",
+          "name_en": "Green plantain dumpling soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 17.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "28",
+          "number": 28,
+          "name_es": "Sopa de camarón",
+          "name_en": "Shrimp soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "29",
+          "number": 29,
+          "name_es": "Sancocho de costilla de res",
+          "name_en": "Beef rib soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "bites",
+      "name_es": "Antojitos típicos",
+      "name_en": "Traditional bites",
+      "items": [
+        {
+          "id": "30",
+          "number": 30,
+          "name_es": "Humitas",
+          "name_en": "Steamed fresh corn cakes",
+          "prices": [
+            {
+              "size": "",
+              "amount": 7.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "31",
+          "number": 31,
+          "name_es": "Maduro con queso",
+          "name_en": "Sweet plantain with cheese",
+          "prices": [
+            {
+              "size": "",
+              "amount": 7.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "32",
+          "number": 32,
+          "name_es": "Arepa con queso",
+          "name_en": "Corn cake with cheese",
+          "prices": [
+            {
+              "size": "",
+              "amount": 7.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "33",
+          "number": 33,
+          "name_es": "Chicharrón y chorizo",
+          "name_en": "Pork crackling & sausage",
+          "prices": [
+            {
+              "size": "",
+              "amount": 12.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "34",
+          "number": 34,
+          "name_es": "Tamal de pollo",
+          "name_en": "Chicken tamal",
+          "prices": [
+            {
+              "size": "",
+              "amount": 8.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "35",
+          "number": 35,
+          "name_es": "Choclo con queso",
+          "name_en": "Corn on the cob with cheese",
+          "prices": [
+            {
+              "size": "",
+              "amount": 6.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "combos",
+      "name_es": "Combos y almuerzo",
+      "name_en": "Combos & lunch",
+      "items": [
+        {
+          "id": "combo-1",
+          "number": null,
+          "name_es": "Combo 1 · Costillas fritas",
+          "name_en": "Combo 1 · Fried ribs",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "Arroz, frijoles o papas fritas o ensalada o maduro.",
+          "note_en": "Rice, beans or fries or salad or sweet plantain."
+        },
+        {
+          "id": "combo-2",
+          "number": null,
+          "name_es": "Combo 2 · Costillas fritas",
+          "name_en": "Combo 2 · Fried ribs",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "Arroz frito o tostones o yuca frita.",
+          "note_en": "Fried rice or green plantains or fried cassava."
+        },
+        {
+          "id": "combo-3",
+          "number": null,
+          "name_es": "Combo 3 · Combo especial",
+          "name_en": "Combo 3 · Chicken & ribs",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "1/4 de pollo, costilla, arroz y frijoles.",
+          "note_en": "Quarter chicken, ribs, rice and beans."
+        },
+        {
+          "id": "combo-4",
+          "number": null,
+          "name_es": "Combo 4 · Pollo entero",
+          "name_en": "Combo 4 · Whole chicken",
+          "prices": [
+            {
+              "size": "",
+              "amount": 30.0
+            }
+          ],
+          "note_es": "Arroz grande, habichuela y ensalada.",
+          "note_en": "Large rice, beans and salad."
+        },
+        {
+          "id": "combo-5",
+          "number": null,
+          "name_es": "Combo 5 · Pollo entero",
+          "name_en": "Combo 5 · Whole chicken",
+          "prices": [
+            {
+              "size": "",
+              "amount": 35.0
+            }
+          ],
+          "note_es": "Arroz, habichuela, papas fritas y soda.",
+          "note_en": "Rice, beans, fries and soda."
+        },
+        {
+          "id": "combo-6",
+          "number": null,
+          "name_es": "Combo 6 · Pollo entero",
+          "name_en": "Combo 6 · Whole chicken",
+          "prices": [
+            {
+              "size": "",
+              "amount": 42.0
+            }
+          ],
+          "note_es": "Arroz chaufa de pollo, ensalada, maduro y salchipapas.",
+          "note_en": "Chicken fried rice, salad, sweet plantain and sausage fries."
+        },
+        {
+          "id": "lunch",
+          "number": null,
+          "name_es": "Especial de almuerzo",
+          "name_en": "Lunch special",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "Consulta disponibilidad y horario del especial.",
+          "note_en": "Call to confirm lunch-special hours and availability."
+        }
+      ]
+    },
+    {
+      "id": "ecuador",
+      "name_es": "Platos ecuatorianos",
+      "name_en": "Ecuadorian classics",
+      "items": [
+        {
+          "id": "36",
+          "number": 36,
+          "name_es": "Bandera",
+          "name_en": "Ecuadorian combination platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "37",
+          "number": 37,
+          "name_es": "Churrasco",
+          "name_en": "Ecuadorian steak platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "38",
+          "number": 38,
+          "name_es": "Bistec encebollado",
+          "name_en": "Steak with onions",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "39",
+          "number": 39,
+          "name_es": "Carne empanizada",
+          "name_en": "Breaded beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "40",
+          "number": 40,
+          "name_es": "Carne frita",
+          "name_en": "Fried beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "41",
+          "number": 41,
+          "name_es": "Carne asada",
+          "name_en": "Grilled beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "42",
+          "number": 42,
+          "name_es": "Hornado ecuatoriano",
+          "name_en": "Ecuadorian roast pork",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "43",
+          "number": 43,
+          "name_es": "Fritada",
+          "name_en": "Fried pork ribs",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "44",
+          "number": 44,
+          "name_es": "Seco de chivo",
+          "name_en": "Goat stew",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "45",
+          "number": 45,
+          "name_es": "Chaulafán",
+          "name_en": "Ecuadorian mixed fried rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "46",
+          "number": 46,
+          "name_es": "Guatita",
+          "name_en": "Ecuadorian tripe stew",
+          "prices": [
+            {
+              "size": "",
+              "amount": 17.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "47",
+          "number": 47,
+          "name_es": "Seco de gallina",
+          "name_en": "Hen stew",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "48",
+          "number": 48,
+          "name_es": "Llapingacho",
+          "name_en": "Ecuadorian potato cake platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "49",
+          "number": 49,
+          "name_es": "Lomito salteado de res",
+          "name_en": "Sautéed beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "50",
+          "number": 50,
+          "name_es": "Seco de carne",
+          "name_en": "Beef stew",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "seafood",
+      "name_es": "Mariscos",
+      "name_en": "Seafood",
+      "items": [
+        {
+          "id": "51",
+          "number": 51,
+          "name_es": "Arroz marinero",
+          "name_en": "Seafood rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 25.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "52",
+          "number": 52,
+          "name_es": "Cazuela mixta de mariscos",
+          "name_en": "Mixed seafood casserole",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "53",
+          "number": 53,
+          "name_es": "Ceviche de camarones",
+          "name_en": "Shrimp ceviche",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "54",
+          "number": 54,
+          "name_es": "Ceviche mixto",
+          "name_en": "Mixed seafood ceviche",
+          "prices": [
+            {
+              "size": "",
+              "amount": 22.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "55",
+          "number": 55,
+          "name_es": "Camarones al ajillo",
+          "name_en": "Garlic shrimp",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "56",
+          "number": 56,
+          "name_es": "Camarones empanizados",
+          "name_en": "Breaded shrimp",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "57",
+          "number": 57,
+          "name_es": "Sango de camarones",
+          "name_en": "Shrimp & plantain stew",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "58",
+          "number": 58,
+          "name_es": "Arroz con camarones",
+          "name_en": "Shrimp rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "59",
+          "number": 59,
+          "name_es": "Filete de pescado frito",
+          "name_en": "Fried fish fillet",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "60",
+          "number": 60,
+          "name_es": "Encebollado de pescado",
+          "name_en": "Ecuadorian fish & onion soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "61",
+          "number": 61,
+          "name_es": "Encebollado mixto",
+          "name_en": "Mixed seafood & onion soup",
+          "prices": [
+            {
+              "size": "",
+              "amount": 24.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "62",
+          "number": 62,
+          "name_es": "Tilapia frita o empanizada",
+          "name_en": "Fried or breaded tilapia",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "63",
+          "number": 63,
+          "name_es": "Corvina frita o empanizada",
+          "name_en": "Fried or breaded corvina",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "64",
+          "number": 64,
+          "name_es": "Ceviche de concha negra",
+          "name_en": "Black clam ceviche",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "65",
+          "number": 65,
+          "name_es": "Pargo rojo frito",
+          "name_en": "Fried red snapper",
+          "prices": [
+            {
+              "size": "",
+              "amount": 25.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "66",
+          "number": 66,
+          "name_es": "Pargo rojo sudado",
+          "name_en": "Stewed red snapper",
+          "prices": [
+            {
+              "size": "",
+              "amount": 25.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "67",
+          "number": 67,
+          "name_es": "Camarones a la plancha",
+          "name_en": "Grilled shrimp",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "68",
+          "number": 68,
+          "name_es": "Camarones camperos",
+          "name_en": "Campero-style shrimp",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "69",
+          "number": 69,
+          "name_es": "Arroz con calamares",
+          "name_en": "Squid rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "70",
+          "number": 70,
+          "name_es": "Arroz con concha negra",
+          "name_en": "Black clam rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "71",
+          "number": 71,
+          "name_es": "Picada de mariscos",
+          "name_en": "Mixed seafood platter",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 20.0
+            },
+            {
+              "size": "Large",
+              "amount": 35.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "72",
+          "number": 72,
+          "name_es": "Salmón frito",
+          "name_en": "Fried salmon",
+          "prices": [
+            {
+              "size": "",
+              "amount": 25.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "73",
+          "number": 73,
+          "name_es": "Salmón sudado o empanizado",
+          "name_en": "Stewed or breaded salmon",
+          "prices": [
+            {
+              "size": "",
+              "amount": 26.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "74",
+          "number": 74,
+          "name_es": "Ceviche de camarón y concha",
+          "name_en": "Shrimp & black clam ceviche",
+          "prices": [
+            {
+              "size": "",
+              "amount": 25.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "75",
+          "number": 75,
+          "name_es": "Cazuela de pescado",
+          "name_en": "Fish casserole",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "76",
+          "number": 76,
+          "name_es": "Arroz con concha blanca",
+          "name_en": "White clam rice",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "colombia",
+      "name_es": "Platos colombianos",
+      "name_en": "Colombian classics",
+      "items": [
+        {
+          "id": "77",
+          "number": 77,
+          "name_es": "Carne asada",
+          "name_en": "Grilled beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "78",
+          "number": 78,
+          "name_es": "Churrasco",
+          "name_en": "Grilled steak",
+          "prices": [
+            {
+              "size": "",
+              "amount": 28.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "79",
+          "number": 79,
+          "name_es": "Bandeja típica",
+          "name_en": "Colombian combination platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "80",
+          "number": 80,
+          "name_es": "Mini bandeja típica",
+          "name_en": "Small Colombian combination platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 17.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "81",
+          "number": 81,
+          "name_es": "Sobrebarriga a la criolla o a la plancha",
+          "name_en": "Creole-style or grilled flank beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "82",
+          "number": 82,
+          "name_es": "Bistec a la criolla",
+          "name_en": "Creole-style steak",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "83",
+          "number": 83,
+          "name_es": "Entraña",
+          "name_en": "Skirt steak",
+          "prices": [
+            {
+              "size": "",
+              "amount": 31.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "84",
+          "number": 84,
+          "name_es": "Lengua criolla o a la plancha",
+          "name_en": "Creole-style or grilled beef tongue",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "85",
+          "number": 85,
+          "name_es": "Lomito de cerdo asado o salteado",
+          "name_en": "Grilled or sautéed pork loin",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "86",
+          "number": 86,
+          "name_es": "Chuleta asada o frita",
+          "name_en": "Grilled or fried pork chop",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "87",
+          "number": 87,
+          "name_es": "Lomito empanizado o a la plancha",
+          "name_en": "Breaded or grilled beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "88",
+          "number": 88,
+          "name_es": "Picada de carne",
+          "name_en": "Mixed meat platter",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 15.0
+            },
+            {
+              "size": "Large",
+              "amount": 30.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "89",
+          "number": 89,
+          "name_es": "Hígado encebollado",
+          "name_en": "Liver with onions",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "90",
+          "number": 90,
+          "name_es": "Mini bandeja de pollo a la brasa",
+          "name_en": "Small rotisserie chicken platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "91",
+          "number": 91,
+          "name_es": "Mini bandeja de pechuga a la plancha",
+          "name_en": "Small grilled chicken breast platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "92",
+          "number": 92,
+          "name_es": "Bandeja típica de pollo a la brasa",
+          "name_en": "Rotisserie chicken combination platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "93",
+          "number": 93,
+          "name_es": "Bandeja típica de pechuga a la plancha",
+          "name_en": "Grilled chicken breast combination platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "94",
+          "number": 94,
+          "name_es": "Bandeja típica de pechuga empanizada",
+          "name_en": "Breaded chicken breast combination platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 21.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "chicken",
+      "name_es": "Especialidades de pollo",
+      "name_en": "Chicken specialties",
+      "items": [
+        {
+          "id": "95",
+          "number": 95,
+          "name_es": "1/4 de pollo",
+          "name_en": "Quarter chicken",
+          "prices": [
+            {
+              "size": "",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "96",
+          "number": 96,
+          "name_es": "1/4 de pollo con arroz frito",
+          "name_en": "Quarter chicken with fried rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "97",
+          "number": 97,
+          "name_es": "1/4 de pollo con arroz y frijoles",
+          "name_en": "Quarter chicken with rice & beans",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "98",
+          "number": 98,
+          "name_es": "1/2 pollo con arroz y frijoles",
+          "name_en": "Half chicken with rice & beans",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "99",
+          "number": 99,
+          "name_es": "Pollo entero",
+          "name_en": "Whole chicken",
+          "prices": [
+            {
+              "size": "",
+              "amount": 15.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "100",
+          "number": 100,
+          "name_es": "1/2 pollo",
+          "name_en": "Half chicken",
+          "prices": [
+            {
+              "size": "",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "101",
+          "number": 101,
+          "name_es": "1/2 pollo con arroz frito",
+          "name_en": "Half chicken with fried rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.25
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "102",
+          "number": 102,
+          "name_es": "1/2 pollo con papas fritas",
+          "name_en": "Half chicken with French fries",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "103",
+          "number": 103,
+          "name_es": "1/2 pollo con ensalada",
+          "name_en": "Half chicken with salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "104",
+          "number": 104,
+          "name_es": "Bandeja de pollo",
+          "name_en": "Quarter chicken combination platter",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "105",
+          "number": 105,
+          "name_es": "Arroz con pollo",
+          "name_en": "Chicken rice",
+          "prices": [
+            {
+              "size": "",
+              "amount": 13.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "106",
+          "number": 106,
+          "name_es": "Pechuga a la plancha",
+          "name_en": "Grilled chicken breast",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "107",
+          "number": 107,
+          "name_es": "Pechuga a la francesa",
+          "name_en": "French-style chicken breast",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "108",
+          "number": 108,
+          "name_es": "Salteado de pollo",
+          "name_en": "Sautéed chicken",
+          "prices": [
+            {
+              "size": "",
+              "amount": 16.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "109",
+          "number": 109,
+          "name_es": "Salteado mixto",
+          "name_en": "Sautéed chicken, shrimp & beef",
+          "prices": [
+            {
+              "size": "",
+              "amount": 20.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "110",
+          "number": 110,
+          "name_es": "Pechuga empanizada",
+          "name_en": "Breaded chicken breast",
+          "prices": [
+            {
+              "size": "",
+              "amount": 19.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "kids",
+      "name_es": "Para los pequeños",
+      "name_en": "Kids menu",
+      "items": [
+        {
+          "id": "111",
+          "number": 111,
+          "name_es": "Salchipapas",
+          "name_en": "French fries with sausage",
+          "prices": [
+            {
+              "size": "",
+              "amount": 10.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "112",
+          "number": 112,
+          "name_es": "Alas de pollo con papas fritas",
+          "name_en": "Chicken wings with French fries",
+          "prices": [
+            {
+              "size": "",
+              "amount": 10.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "113",
+          "number": 113,
+          "name_es": "Deditos de pollo",
+          "name_en": "Chicken fingers",
+          "prices": [
+            {
+              "size": "",
+              "amount": 10.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "114",
+          "number": 114,
+          "name_es": "Medallones de pollo",
+          "name_en": "Chicken nuggets",
+          "prices": [
+            {
+              "size": "",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "salads",
+      "name_es": "Ensaladas",
+      "name_en": "Salads",
+      "items": [
+        {
+          "id": "115",
+          "number": 115,
+          "name_es": "Ensalada de aguacate",
+          "name_en": "Avocado salad",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 8.5
+            },
+            {
+              "size": "Large",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "116",
+          "number": 116,
+          "name_es": "Ensalada rusa",
+          "name_en": "Russian-style potato salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "117",
+          "number": 117,
+          "name_es": "Ensalada de vegetales mixtos",
+          "name_en": "Mixed vegetable salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 12.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "118",
+          "number": 118,
+          "name_es": "Ensalada de pollo con aguacate",
+          "name_en": "Chicken & avocado salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "119",
+          "number": 119,
+          "name_es": "Ensalada regular",
+          "name_en": "House salad",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 8.0
+            },
+            {
+              "size": "Large",
+              "amount": 11.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "120",
+          "number": 120,
+          "name_es": "Ensalada de milanesa de pollo o res",
+          "name_en": "Breaded chicken or beef salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "121",
+          "number": 121,
+          "name_es": "Ensalada de pechuga asada",
+          "name_en": "Grilled chicken breast salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 14.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "122",
+          "number": 122,
+          "name_es": "Ensalada de filete frito",
+          "name_en": "Fried fish fillet salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 17.75
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "123",
+          "number": 123,
+          "name_es": "Ensalada de camarón",
+          "name_en": "Shrimp salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 17.75
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "124",
+          "number": 124,
+          "name_es": "Ensalada de camarón y pechuga asada",
+          "name_en": "Shrimp & grilled chicken breast salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 18.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "125",
+          "number": 125,
+          "name_es": "Ensalada rusa de camarón",
+          "name_en": "Russian-style shrimp salad",
+          "prices": [
+            {
+              "size": "",
+              "amount": 17.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "name_es": "Órdenes extra",
+      "name_en": "Side orders",
+      "items": [
+        {
+          "id": "126",
+          "number": 126,
+          "name_es": "Tostones o maduros",
+          "name_en": "Green or sweet plantains",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 6.0
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "127",
+          "number": 127,
+          "name_es": "Papas fritas",
+          "name_en": "French fries",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 6.0
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "128",
+          "number": 128,
+          "name_es": "Yuca frita o sudada",
+          "name_en": "Fried or stewed cassava",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 6.0
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "129",
+          "number": 129,
+          "name_es": "Arroz frito latino",
+          "name_en": "Latin fried rice",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 7.5
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "130",
+          "number": 130,
+          "name_es": "Papa cocinada",
+          "name_en": "Boiled potatoes",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 5.5
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "131",
+          "number": 131,
+          "name_es": "Mote",
+          "name_en": "White hominy",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 7.0
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "132",
+          "number": 132,
+          "name_es": "Arroz blanco",
+          "name_en": "White rice",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 6.0
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "133",
+          "number": 133,
+          "name_es": "Arroz amarillo",
+          "name_en": "Yellow rice",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 6.0
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "134",
+          "number": 134,
+          "name_es": "Frijoles",
+          "name_en": "Beans",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 6.0
+            },
+            {
+              "size": "Large",
+              "amount": 9.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "fried",
+      "name_es": "Frituras",
+      "name_en": "Fried favorites",
+      "items": [
+        {
+          "id": "135",
+          "number": 135,
+          "name_es": "Empanada de queso",
+          "name_en": "Cheese empanada",
+          "prices": [
+            {
+              "size": "",
+              "amount": 2.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "136",
+          "number": 136,
+          "name_es": "Empanada de carne o pollo",
+          "name_en": "Beef or chicken empanada",
+          "prices": [
+            {
+              "size": "",
+              "amount": 2.25
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "137",
+          "number": 137,
+          "name_es": "Chicharrón",
+          "name_en": "Pork crackling",
+          "prices": [
+            {
+              "size": "",
+              "amount": 6.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "138",
+          "number": 138,
+          "name_es": "Chorizo",
+          "name_en": "Sausage",
+          "prices": [
+            {
+              "size": "",
+              "amount": 5.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "139",
+          "number": 139,
+          "name_es": "Arepa con queso",
+          "name_en": "Corn cake with cheese",
+          "prices": [
+            {
+              "size": "",
+              "amount": 5.25
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "140",
+          "number": 140,
+          "name_es": "Pan de queso",
+          "name_en": "Cheese bread",
+          "prices": [
+            {
+              "size": "",
+              "amount": 1.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "141",
+          "number": 141,
+          "name_es": "Chicharrón y chorizo mixto",
+          "name_en": "Mixed pork crackling & sausage",
+          "prices": [
+            {
+              "size": "",
+              "amount": 12.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "drinks",
+      "name_es": "Bebidas",
+      "name_en": "Drinks",
+      "items": [
+        {
+          "id": "drinks-1",
+          "number": null,
+          "name_es": "Quaker",
+          "name_en": "Quaker oat drink",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 5.0
+            },
+            {
+              "size": "Large",
+              "amount": 7.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-2",
+          "number": null,
+          "name_es": "Morocho caliente",
+          "name_en": "Hot Ecuadorian corn drink",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 4.0
+            },
+            {
+              "size": "Large",
+              "amount": 8.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-3",
+          "number": null,
+          "name_es": "Café",
+          "name_en": "Coffee",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 2.0
+            },
+            {
+              "size": "Medium",
+              "amount": 2.5
+            },
+            {
+              "size": "Large",
+              "amount": 3.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-4",
+          "number": null,
+          "name_es": "Café expreso",
+          "name_en": "Espresso",
+          "prices": [
+            {
+              "size": "Large",
+              "amount": 2.75
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-5",
+          "number": null,
+          "name_es": "Avena fría o caliente",
+          "name_en": "Oat drink, hot or cold",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 4.0
+            },
+            {
+              "size": "Large",
+              "amount": 7.25
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-6",
+          "number": null,
+          "name_es": "Capuchino",
+          "name_en": "Cappuccino",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 2.25
+            },
+            {
+              "size": "Medium",
+              "amount": 2.75
+            },
+            {
+              "size": "Large",
+              "amount": 3.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-7",
+          "number": null,
+          "name_es": "Té",
+          "name_en": "Tea",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 2.0
+            },
+            {
+              "size": "Large",
+              "amount": 2.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-8",
+          "number": null,
+          "name_es": "Chocolate colombiano o instantáneo",
+          "name_en": "Colombian or instant hot chocolate",
+          "prices": [
+            {
+              "size": "Small",
+              "amount": 3.25
+            },
+            {
+              "size": "Large",
+              "amount": 4.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-9",
+          "number": null,
+          "name_es": "Sodas americanas",
+          "name_en": "American sodas",
+          "prices": [
+            {
+              "size": "",
+              "amount": 2.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-10",
+          "number": null,
+          "name_es": "Sodas ecuatorianas",
+          "name_en": "Ecuadorian sodas",
+          "prices": [
+            {
+              "size": "",
+              "amount": 2.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-11",
+          "number": null,
+          "name_es": "Snapple · Güitig · Pony",
+          "name_en": "Bottled drinks",
+          "prices": [
+            {
+              "size": "",
+              "amount": 2.25
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-12",
+          "number": null,
+          "name_es": "Sodas colombianas",
+          "name_en": "Colombian sodas",
+          "prices": [
+            {
+              "size": "",
+              "amount": 2.0
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-13",
+          "number": null,
+          "name_es": "Soda de 2 litros",
+          "name_en": "2-liter soda",
+          "prices": [
+            {
+              "size": "",
+              "amount": 3.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "drinks-14",
+          "number": null,
+          "name_es": "Agua",
+          "name_en": "Water",
+          "prices": [
+            {
+              "size": "",
+              "amount": 1.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "favorites",
+      "name_es": "Más sabores de la casa",
+      "name_en": "More house favorites",
+      "items": [
+        {
+          "id": "favorites-1",
+          "number": null,
+          "name_es": "Quimbolito",
+          "name_en": "Steamed Ecuadorian sweet cake",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-2",
+          "number": null,
+          "name_es": "Bollo de pescado",
+          "name_en": "Ecuadorian fish & plantain parcel",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-3",
+          "number": null,
+          "name_es": "Encebollado marinero",
+          "name_en": "Seafood & onion soup",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-4",
+          "number": null,
+          "name_es": "Salchipapa mixta",
+          "name_en": "Mixed sausage & fries",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-5",
+          "number": null,
+          "name_es": "Papi pollo",
+          "name_en": "Chicken & fries",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-6",
+          "number": null,
+          "name_es": "Seco de pollo",
+          "name_en": "Chicken stew",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-7",
+          "number": null,
+          "name_es": "Ensalada de frutas",
+          "name_en": "Fruit salad",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-8",
+          "number": null,
+          "name_es": "Guaguas de pan",
+          "name_en": "Ecuadorian bread figures",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-9",
+          "number": null,
+          "name_es": "Colada morada",
+          "name_en": "Ecuadorian purple corn & fruit drink",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-10",
+          "number": null,
+          "name_es": "Pavo horneado",
+          "name_en": "Roast turkey",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-11",
+          "number": null,
+          "name_es": "Pollo horneado",
+          "name_en": "Oven-roasted chicken",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-12",
+          "number": null,
+          "name_es": "Pan ecuatoriano",
+          "name_en": "Ecuadorian bread",
+          "prices": [
+            {
+              "size": "",
+              "amount": 1.5
+            }
+          ],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "favorites-13",
+          "number": null,
+          "name_es": "Viagra de mar",
+          "name_en": "House seafood special",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    },
+    {
+      "id": "shakes",
+      "name_es": "Batidos de fruta",
+      "name_en": "Fruit shakes",
+      "items": [
+        {
+          "id": "shake-0",
+          "number": null,
+          "name_es": "Tomate de árbol",
+          "name_en": "Tree tomato",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-1",
+          "number": null,
+          "name_es": "Guayaba",
+          "name_en": "Guava",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-2",
+          "number": null,
+          "name_es": "Papaya",
+          "name_en": "Papaya",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-3",
+          "number": null,
+          "name_es": "Mora",
+          "name_en": "Blackberry",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-4",
+          "number": null,
+          "name_es": "Lulo",
+          "name_en": "Lulo",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-5",
+          "number": null,
+          "name_es": "Guanábana",
+          "name_en": "Soursop",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-6",
+          "number": null,
+          "name_es": "Mango",
+          "name_en": "Mango",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-7",
+          "number": null,
+          "name_es": "Maracuyá",
+          "name_en": "Passion fruit",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        },
+        {
+          "id": "shake-8",
+          "number": null,
+          "name_es": "Piña",
+          "name_en": "Pineapple",
+          "prices": [
+            {
+              "size": "Water",
+              "amount": 4.5
+            },
+            {
+              "size": "Milk",
+              "amount": 5.5
+            }
+          ],
+          "note_es": "En agua $4.50 · En leche $5.50",
+          "note_en": "With water $4.50 · With milk $5.50"
+        }
+      ]
+    },
+    {
+      "id": "icecream",
+      "name_es": "Helados caseros",
+      "name_en": "Homemade ice cream",
+      "items": [
+        {
+          "id": "ice-0",
+          "number": null,
+          "name_es": "Coco",
+          "name_en": "Coconut",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "ice-1",
+          "number": null,
+          "name_es": "Chocolate",
+          "name_en": "Chocolate",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "ice-2",
+          "number": null,
+          "name_es": "Mora",
+          "name_en": "Blackberry",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "ice-3",
+          "number": null,
+          "name_es": "Queso",
+          "name_en": "Cheese",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "ice-4",
+          "number": null,
+          "name_es": "Frutas",
+          "name_en": "Fruit",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "ice-5",
+          "number": null,
+          "name_es": "Michelada",
+          "name_en": "Michelada",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        },
+        {
+          "id": "ice-6",
+          "number": null,
+          "name_es": "Mango",
+          "name_en": "Mango",
+          "prices": [],
+          "note_es": "",
+          "note_en": ""
+        }
+      ]
+    }
+  ]
+}
