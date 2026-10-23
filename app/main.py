@@ -143,3 +143,7 @@ def admin(request:Request):
 def catering_list():
     with database() as db:
         return {"requests":[dict(row) for row in db.execute("SELECT * FROM catering_requests ORDER BY created_at DESC LIMIT 500")]}
+
+# The key is read only by the backend, never returned to the browser.
+from .assistant import router as assistant_router
+app.include_router(assistant_router)
