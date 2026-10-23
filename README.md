@@ -60,3 +60,22 @@ curl -H "Authorization: Bearer $ADMIN_API_KEY" https://cuencany.com/api/admin/ca
 ~~~
 
 Datos personales guardados: nombre, teléfono, correo opcional, fecha, invitados, platos, notas, idioma y fecha de registro. Haz copias de SQLite y conserva su volumen entre despliegues.
+
+## Asistente de carta OpenAI
+
+`POST /api/chat` recibe `message` (2–500 caracteres), `history` (hasta tres preguntas previas de máximo 500 caracteres) y `language` (`es`/`en`). Usa Responses API con Structured Outputs. El modelo solo puede seleccionar hasta tres IDs del catálogo: nombres y precios se recuperan del JSON del servidor; no se publica texto libre del modelo. Los IDs desconocidos o duplicados se rechazan. No inventa precios faltantes ni ofrece pedidos o reservas. Preferencias y presupuestos se proporcionan al selector; la selección sigue siendo probabilística. Para alergias o restricciones dietéticas se deriva a consulta telefónica sin recomendar seguridad alimentaria.
+
+En EasyPanel → backcuencany → Environment añade:
+```env
+OPENAI_API_KEY=TU_CLAVE_SOLO_EN_EL_SERVIDOR
+OPENAI_MODEL=gpt-4.1-mini
+CHAT_HOURLY_LIMIT=10
+CHAT_DAILY_LIMIT=100
+```
+Guarda y despliega el backend. No añadas la clave al frontend, a GitHub ni a variables `VITE_`. Una clave ausente devuelve 503 y la web informa que el asistente aún no está disponible. Modelo configurable; debe soportar Responses API y Structured Outputs.
+
+Los límites se guardan en SQLite y sobreviven a reinicios: diez llamadas por IP/hora y cien llamadas por día para toda la instancia por defecto. Si el proxy no transmite una IP fiable se aplica un límite compartido más conservador. Máximo tres llamadas concurrentes y tiempo de espera limitado. Configura también límites de gasto en tu proyecto OpenAI. Una llamada fallida cuenta para el límite.
+
+Las preguntas y hasta tres preguntas previas se envían a OpenAI con `store:false`. No se guardan conversaciones en la base local ni se envían consultas privadas de catering. El usuario ve una nota y debe evitar datos personales; `store:false` no sustituye las políticas de retención del proveedor. No se publica el detalle de errores del proveedor.
+
+Pruebas: `python -m pytest -q`. La integración con OpenAI se verifica con transporte simulado; una prueba real requiere que el propietario configure su clave en el servidor.
