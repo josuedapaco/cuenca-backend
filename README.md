@@ -33,7 +33,7 @@ Las solicitudes se limitan a 5 por hora por IP para esta instancia. Es un límit
 
 ## Docker / EasyPanel
 
-El [Dockerfile](Dockerfile) escucha en **8000** y ejecuta como usuario UID 1000.
+El [Dockerfile](Dockerfile) escucha en **84** y ejecuta como usuario UID 1000.
 
 Variables:
 
@@ -41,7 +41,7 @@ Variables:
 - PUBLIC_ORIGINS=https://cuencany.com,https://www.cuencany.com
 - ADMIN_API_KEY: clave aleatoria configurada en el servidor.
 
-Monta un volumen persistente en **/app/data**. El frontend, en su propio contenedor Nginx (8080), redirige /api al backend por DNS interno. No necesitas exponer la base de datos ni un dominio separado para la API.
+Monta un volumen persistente en **/app/data**. El frontend, en su propio contenedor Nginx (84), redirige /api al backend por DNS interno. No necesitas exponer la base de datos ni un dominio separado para la API.
 
 Build Path /; Dockerfile Dockerfile. Conecta GitHub al repositorio privado josuedapaco/cuenca-backend, rama main.
 
